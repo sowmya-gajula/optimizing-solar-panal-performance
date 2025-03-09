@@ -1,7 +1,7 @@
 streamlit==1.43.1
 joblib==1.4.2
-NumPy: 1.26.4
-Pandas: 2.2.2
-TensorFlow: 2.18.0
-Scikit-Learn: 1.6.1
+NumPy==1.26.4
+Pandas==2.2.2
+TensorFlow==2.18.0
+Scikit-Learn==1.6.1
 matplotlib==3.10.0
