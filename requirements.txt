@@ -4,3 +4,4 @@ NumPy: 1.26.4
 Pandas: 2.2.2
 TensorFlow: 2.18.0
 Scikit-Learn: 1.6.1
+matplotlib==3.10.0
